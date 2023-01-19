@@ -1,2 +1,5 @@
-# ComputerGraphics
- Intermediate Computer Graphics 2023
+# Intermediate Graphics Lab 1
+
+- [ ] Create model
+- [ ] Create textures
+- [ ] Create shader
